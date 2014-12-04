@@ -1,0 +1,7 @@
+{
+  "name": "winesmd",
+  "version": "0.0.0",
+  "dependencies": {
+    "threejs": "*"
+  }
+}
